@@ -1,6 +1,6 @@
 # καλλιστι
 
-Erisische Ausschweifungen von [srslymarco](https://www.threads.net/@srslymarco). Essays, Fragmente und Gedanken über Hierarchie, Dezentralisierung und atheistische Religion im zweiten Viertel des 21. Jahrhunderts.
+Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Hierarchie, Dezentralisierung und atheistische Religion im zweiten Viertel des 21. Jahrhunderts.
 
 ---
 
@@ -12,7 +12,7 @@ Erisische Ausschweifungen von [srslymarco](https://www.threads.net/@srslymarco).
 
 ## Über
 
-srslymarco zankt sich seit über 25 Jahren in Foren und Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
+Marco zankt sich seit über 25 Jahren in Foren und Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
 
 ---
 
