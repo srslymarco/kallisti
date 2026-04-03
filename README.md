@@ -6,7 +6,7 @@ Erisische Ausschweifungen von [srslymarco](https://www.threads.net/@srslymarco).
 
 ## Texte
 
-*Noch keine Texte veröffentlicht.* *F* = *m* · *a*
+essays/kritik-der-kritik.md
 
 ---
 
