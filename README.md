@@ -12,7 +12,7 @@ Erisische Ausschweifungen von [srslymarco](https://www.threads.net/@srslymarco).
 
 ## Über
 
-srslymarco zankt sich seit 27 Jahren in Foren udn Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
+srslymarco zankt sich seit über 25 Jahren in Foren und Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
 
 ---
 
