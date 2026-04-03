@@ -18,4 +18,4 @@ Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der
 
 ---
 
-[zurück](README.md)
+- [zurück](README.md)
