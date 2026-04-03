@@ -6,7 +6,7 @@ Erisische Ausschweifungen von [srslymarco](https://www.threads.net/@srslymarco).
 
 ## Texte
 
-[Kritik der Gekränkheit](essays/kritik-der-gekraenktheit.md)
+- [Kritik der Gekränkheit](essays/kritik-der-gekraenktheit.md)
 
 ---
 
