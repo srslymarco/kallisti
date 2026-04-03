@@ -10,7 +10,7 @@ Copyright © 2026 srslymarco
 Dieses Werk ist lizenziert unter der Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
 
 Um eine Kopie dieser Lizenz einzusehen, besuchen Sie
-https://creativecommons.org/licenses/by-sa/4.0/ oder schreiben Sie an:
+[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) oder schreiben Sie an:
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Sie dürfen:
@@ -37,7 +37,7 @@ technische Maßnahmen anwenden, die andere rechtlich daran hindern, etwas zu tun
 was die Lizenz erlaubt.
 
 Den vollständigen Lizenztext finden Sie hier:
-https://creativecommons.org/licenses/by-sa/4.0/legalcode
+[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
 ---
 
