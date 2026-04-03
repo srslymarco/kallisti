@@ -25,6 +25,6 @@ Letztendlich ist Religion also immer ein Versuch, aus einer Kränkung heraus and
 
 ---
 
-[Start](../README.md)  • [Impressum](../IMPRESSUM.md) • [Datenschutz](../DATENSCHUTZ.md) • [CC BY-SA 4.0](../LICENSE.md)
+[καλλιστι](../README.md)  • [Impressum](../IMPRESSUM.md) • [Datenschutz](../DATENSCHUTZ.md) • [CC BY-SA 4.0](../LICENSE.md)
 
 
