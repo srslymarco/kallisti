@@ -14,6 +14,6 @@ Essays, Fragmente und Gedanken über Hierarchie, Dezentralisierung und atheistis
 
 ## Über
 
-srslymarco wirft seit 27 Jahren goldene Äpfel in Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
+srslymarco zankt sich seit 27 Jahren in Foren udn Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
 
 Lizenz: [CC BY-SA 4.0](LICENSE) | Nimm und gib den Allerschönsten.
