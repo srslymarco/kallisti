@@ -17,3 +17,8 @@ Hier aber stelle ich die These auf, dass Religion nicht zersetzt werden kann, in
 Sollte man Religion zersetzen? Unbedingt. Warum sollte man Religion zersetzen? Weil es kein guter Umgang ist, die eigene Gekränktheit auf etwas nicht Vorhandenes und sein gesamtes Umfeld gleichermaßen zu projizieren, genauso wie es kein guter Umgang ist, die eigene Gekränktheit darüber, Ziel genau dieser Projektion zu sein, zurückzuprojizieren.
 
 Letztendlich ist Religion also immer ein Versuch, aus einer Kränkung heraus andere zu kränken, da die eigentlich Verantwortliche (die verdammte Realität) nicht verfügbar ist.
+
+---
+
+[zurück](README.md)
+
