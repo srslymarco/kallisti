@@ -18,4 +18,4 @@ srslymarco zankt sich seit 27 Jahren in Foren udn Kommentarspalten. Hier liegen 
 
 ---
 
-[Impressum](IMPRESSUM) · [Datenschutz](DATENSCHUTZ) · [CC BY-SA 4.0](LICENSE)
+[Impressum](IMPRESSUM.md) · [Datenschutz](DATENSCHUTZ.md) · [CC BY-SA 4.0](LICENSE.md)
