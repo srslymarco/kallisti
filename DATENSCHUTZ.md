@@ -2,7 +2,7 @@
 
 ## Verantwortlicher
 
-Marco Körner – siehe [Impressum](IMPRESSUM).
+Marco Körner – siehe [Impressum](IMPRESSUM.md).
 
 ## Hosting
 
