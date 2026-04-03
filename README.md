@@ -16,4 +16,4 @@ Essays, Fragmente und Gedanken über Hierarchie, Dezentralisierung und atheistis
 
 srslymarco zankt sich seit 27 Jahren in Foren udn Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
 
-Lizenz: [CC BY-SA 4.0](LICENSE)
+[Impressum](IMPRESSUM) · [Datenschutz](DATENSCHUTZ) · [CC BY-SA 4.0](LICENSE)
