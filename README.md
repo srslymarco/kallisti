@@ -8,7 +8,7 @@ Essays, Fragmente und Gedanken über Hierarchie, Dezentralisierung und atheistis
 
 ## Texte
 
-*Noch keine Texte veröffentlicht. Der Apfel fällt wenn er die entsprechende Masse erreicht.*
+*Noch keine Texte veröffentlicht. *F* = *m* · *a**
 
 ---
 
