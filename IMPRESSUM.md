@@ -2,10 +2,10 @@
 
 Angaben gemäß § 5 DDG
 
-Marco Körner
+Marco Körner\
 Tripods Media
 
-Leutragraben 1
+Leutragraben 1\
 07743 Jena
 
 E-Mail: info@tripods.media
