@@ -1,32 +1,39 @@
-Creative Commons Attribution-ShareAlike 4.0 International
+# Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International
 
-Copyright (c) 2026 srslymarco
+Copyright © 2026 srslymarco
 
-This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
-International License. To view a copy of this license, visit
-https://creativecommons.org/licenses/by-sa/4.0/ or send a letter to
+Dieses Werk ist lizenziert unter der Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+
+Um eine Kopie dieser Lizenz einzusehen, besuchen Sie
+https://creativecommons.org/licenses/by-sa/4.0/ oder schreiben Sie an:
 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-You are free to:
+## Sie dürfen:
 
-  Share — copy and redistribute the material in any medium or format
-  Adapt — remix, transform, and build upon the material for any purpose,
-  even commercially
+Teilen – das Material in jedem Medium oder Format kopieren und weiterverbreiten.
 
-Under the following terms:
+Bearbeiten – das Material für jeden Zweck bearbeiten, verändern und darauf aufbauen,
+auch kommerziell.
 
-  Attribution — You must give appropriate credit, provide a link to the
-  license, and indicate if changes were made. You may do so in any
-  reasonable manner, but not in any way that suggests the licensor
-  endorses you or your use.
+## Unter den folgenden Bedingungen:
 
-  ShareAlike — If you remix, transform, or build upon the material, you
-  must distribute your contributions under the same license as the
-  original.
+Namensnennung – Sie müssen den Urheber angemessen nennen, einen Link zur Lizenz bereitstellen und angeben, ob Änderungen vorgenommen wurden. Dies kann auf jede angemessene Weise geschehen, jedoch nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze Sie oder Ihre Nutzung.
 
-  No additional restrictions — You may not apply legal terms or
-  technological measures that legally restrict others from doing anything
-  the license permits.
 
-For the full legal text of this license, see:
+Sie dürfen das Material auf jede angemessene Weise verwenden, jedoch nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze Sie oder Ihre Nutzung.
+
+
+Sie dürfen das Material nicht bearbeiten, es sei denn, der Lizenzgeber unterstützt Sie oder Ihre Nutzung. Weitergabe unter gleichen Bedingungen – Wenn Sie das Material bearbeiten, verändern oder darauf aufbauen,
+müssen Sie Ihre Beiträge unter derselben Lizenz wie das
+Original verbreiten.
+
+Keine zusätzlichen Einschränkungen – Sie dürfen keine rechtlichen Bestimmungen oder
+technische Maßnahmen anwenden, die andere rechtlich daran hindern, etwas zu tun,
+was die Lizenz erlaubt.
+
+Den vollständigen Lizenztext finden Sie hier:
 https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+---
+
+- ​​[zurück](README.md)
