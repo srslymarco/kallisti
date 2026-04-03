@@ -41,4 +41,4 @@ Den vollständigen Lizenztext finden Sie hier:
 
 ---
 
-- ​​[zurück](README.md)
+​[zurück](README.md)
