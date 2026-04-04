@@ -3,6 +3,8 @@ layout: default
 title: Kritik der Gekränktheit
 ---
 
+# Kritik der Gekränktheit
+
 Ohne Zweifel entspringt die Religion dem kindlichen Bedürfnis, jemand anderem die Schuld zu geben für die Kränkung, die die eigene Existenz bedeutet.
 
 Kritik an der Religion wiederum bedeutet, sich über dieses kindische Verhalten auf die eine oder andere Art lustig zu machen, was wiederum – und zwar völlig zu Recht – als kindisch kritisiert wird.
