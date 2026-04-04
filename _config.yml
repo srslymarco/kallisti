@@ -1,0 +1,6 @@
+baseurl: /kallisti
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
