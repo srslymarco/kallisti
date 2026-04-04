@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Kritik der Gekränktheit
 ---
 
@@ -24,9 +23,3 @@ Hier stelle also ich die These auf, dass Religion nicht zersetzt werden kann, in
 Sollte man Religion zersetzen? Unbedingt. Warum sollte man Religion zersetzen? Weil es kein guter Umgang ist, die eigene existienzielle Gekränktheit auf etwas nicht Vorhandenes projizieren zu wollen – und weil das notwendigerweise immer vergeblich ist – stattdessen sein gesamtes Umfeld in Mitleidenschaft zu ziehen. Genauso ist es kein guter Umgang, die eigene Gekränktheit darüber, genau davon in Mitleidenschaft gezogen zu werden, zurückzuprojizieren.
 
 Letztendlich ist Religion also immer ein Versuch, aus einer Kränkung heraus andere zu kränken, da die eigentlich Verantwortliche (die verdammte Realität) nicht verfügbar ist.
-
----
-
-[καλλιστι](../README.md)  • [Impressum](../IMPRESSUM.md) • [Datenschutz](../DATENSCHUTZ.md) • [CC BY-SA 4.0](../LICENSE.md)
-
-
