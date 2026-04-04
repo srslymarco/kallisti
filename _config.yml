@@ -4,4 +4,4 @@ defaults:
       path: ""
     values:
       layout: default
-      img_width: "375px"
+      
