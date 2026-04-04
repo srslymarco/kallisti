@@ -14,3 +14,9 @@ Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und
 ## Über
 
 srslymarco zankt sich seit über 25 Jahren in Foren und Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
+
+---
+
+## Kabale
+
+- [Einführung in den Diskordianismus / 44. Bürokratie 3191 J.u.Fr.E.](https://media.ccc.de/v/ds25-502-einfuhrung-in-den-diskordianismus)
