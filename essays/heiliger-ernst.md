@@ -1,5 +1,5 @@
 ---
-title: Über Ernst
+title: Über den Heiligen Ernst
 ---
 
 # Über den Heiligen Ernst
@@ -14,4 +14,4 @@ Du, der Du dies liest, ahnst vielleicht schon, wohin das führt: Ich will den Di
 
 Und somit spreche ich Greyface heilig und gebe ihm den Namen Ernst. Es sei daher nunmehr bekannt als der Heilige Ernst oder St. Gravitas.
 
-![Der Heilige Ernst, genannt St. Gravitas](./bilder/St-Gravitas.png)
+![Der Heilige Ernst, genannt St. Gravitas](/bilder/St-Gravitas.png)
