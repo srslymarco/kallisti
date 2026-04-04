@@ -1,4 +1,4 @@
-# καλλιστι
+![καλλιστι](bilder/kallisti-white.png)
 
 Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und atheistische Religion im zweiten Viertel des 21. Jahrhunderts.
 
