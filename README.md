@@ -20,4 +20,4 @@ srslymarco zankt sich seit über 25 Jahren in Foren und Kommentarspalten. Hier l
 ## Standardwerke
 
 - [Principia Discordia, deutsche Ausgabe (scribd.com)](https://de.scribd.com/doc/66412156/Principia-Discordia)
-- [Einführung in den Diskordianismus / 44. Bürokratie 3191 J.u.Fr.E.](https://media.ccc.de/v/ds25-502-einfuhrung-in-den-diskordianismus)
+- [Einführung in den Diskordianismus (44. Bürokratie 3191 J.u.Fr.E.)](https://media.ccc.de/v/ds25-502-einfuhrung-in-den-diskordianismus)
