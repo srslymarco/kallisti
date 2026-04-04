@@ -18,4 +18,4 @@ Kallisti!
 
 ---
 
-![Der Heilige Ernst, genannt St. Gravitas](../bilder/St-Gravitas.png)
+![Der Heilige Ernst, genannt St. Gravitas](../bilder/St-Gravitas.png){: width="400px" }
