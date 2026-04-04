@@ -7,6 +7,7 @@ Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und
 ## Texte
 
 - [Kritik der Gekränkheit](essays/kritik-der-gekraenktheit.md)
+- [Über den Heiligen Ernst](essays/heiliger-ernst.md)
 
 ---
 
