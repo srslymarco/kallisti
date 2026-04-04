@@ -10,7 +10,7 @@ Interessant sind hier jedoch die algorithmisch verstärkten Aufregungsspiralen, 
 
 „Graugesicht“ ist also ein passender Begriff, aber er ist mir zu arg bemüht. Und er baut eine Dichotomie auf, die schlichtweg falsch ist: Denn was ist erisischer als sich darüber zu zerstreiten, wessen unnötig bürokratische Weltanschauung in Wahrheit die allerschönste ist?
 
-Du, der Du dies liest, ahnst vielleicht schon, wohin das führt: Ich will den Discordianismus reformieren und in meiner Funktion als discordianischer Papst steht mir das auch zu.
+Wenn Du dies liest, ahnst Du vielleicht schon, wohin das führt: Ich will den Discordianismus reformieren und in meiner Funktion als discordianischer Papst steht mir das auch zu.
 
 Und somit spreche ich Greyface heilig und gebe ihm den Namen Ernst. Es sei daher nunmehr bekannt als der Heilige Ernst oder St. Gravitas. 
 
