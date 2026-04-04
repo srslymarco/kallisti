@@ -38,7 +38,3 @@ was die Lizenz erlaubt.
 
 Den vollständigen Lizenztext finden Sie hier:
 [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
-
----
-
-​[καλλιστι](README.md)
