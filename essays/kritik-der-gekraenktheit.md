@@ -1,8 +1,8 @@
 ---
-title: Kritik der Gekränktheit
+title: Eine Kritik der Gekränktheit
 ---
 
-# Kritik der Gekränktheit
+# Eine Kritik der Gekränktheit
 
 Ohne Zweifel entspringt die Religion dem kindlichen Bedürfnis, jemand anderem die Schuld zu geben für die Kränkung, die die eigene Existenz bedeutet.
 
