@@ -26,5 +26,5 @@ Letztendlich ist Religion also immer ein Versuch, aus einer Kränkung heraus and
 
 ---
 
-![Unsere Frau Eris Discordia](../bilder/Eris-Discordia.png){: width="400px" }
+![Unsere Frau Eris Discordia](../bilder/Eris-Discordia.png)
 
