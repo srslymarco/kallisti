@@ -13,7 +13,3 @@ E-Mail: info@tripods.media
 ## Haftung für Inhalte
 
 Die Inhalte dieser Seite wurden mit Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität übernehme ich keine Gewähr.
-
----
-
-[καλλιστι](README.md)
