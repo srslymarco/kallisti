@@ -13,3 +13,5 @@ Interessant sind hier jedoch die algorithmisch verstärkten Aufregungsspiralen, 
 Du, der Du dies liest, ahnst vielleicht schon, wohin das führt: Ich will den Discordianismus reformieren und in meiner Funktion als discordianischer Papst steht mir das auch zu.
 
 Und somit spreche ich Greyface heilig und gebe ihm den Namen Ernst. Es sei daher nunmehr bekannt als der Heilige Ernst oder St. Gravitas.
+
+![Der Heilige Ernst, genannt St. Gravitas](./bilder/St-Gravitas.png)
