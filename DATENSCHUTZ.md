@@ -15,7 +15,3 @@ Diese Seite verwendet keine Cookies, kein Tracking, keine Analyse-Tools und kein
 ## Ihre Rechte
 
 Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer Daten sowie das Recht auf Beschwerde bei einer Aufsichtsbehörde. Da ich selbst keine Daten erhebe, richten sich Anfragen zur Datenverarbeitung beim Seitenaufruf an GitHub (siehe oben).
-
----
-
-[καλλιστι](README.md)
