@@ -24,7 +24,7 @@ So wie Eris auf die Kränkung mit ihrem goldenen Apfel „für die Allerschönst
 ## Die 5 Goldenen Äpfel
 1. **ελευθερον** (ELEUTHERON) — *frei.* Nichts, was du tust, hat irgendeine kosmische Bedeutung. Das gibt dir die Freiheit, das zu tun, was richtig ist. 
 2. **εφημερον** (EPHEMERON) — *vergänglich* Dein Körper, dein Geist und deine Zeit sind endlich. Sie sind das kostbarste was du hast.
-3.  *ισον (ISON) — gleich.* Was du für dich selbst beanspruchst, steht auch anderen zu. Was du anderen verwehrst, verwehrst du du auch dir selbst. 
+3. **ισον** (ISON) — gleich.* Was du für dich selbst beanspruchst, steht auch anderen zu. Was du anderen verwehrst, verwehrst du du auch dir selbst. 
 4. **σεαυτου** (SEAUTOU) — *deiner selbst.* Du bist für deine eigenen Gefühle verantwortlich und nicht für die anderer Menschen.
 5. **αδηλον** (ADELON) — *ungewiss* Niemand besitzt die absolute Wahrheit. Dass du an einem Punkt Recht hast, heißt nicht, dass du dich nicht jederzeit irren kannst.
 
