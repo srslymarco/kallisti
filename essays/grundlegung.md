@@ -31,3 +31,7 @@ So wie Eris auf die Kränkung mit ihrem goldenen Apfel „für die Allerschönst
 Ich behaupte, jede Religion wurde aus der Kränkung darüber gegründet, dass wir sind und die Welt ist, ohne dass es irgendeine Begründung dafür gab oder irgendein Einverständnis bestand. Seitdem suchen wir einen Sinn für das alles und erschaffen uns Märchen, die diesen Sinn stiften und Einheit geben sollen. Ironischerweise ist das in der Menschheitsgeschichte so oft passiert, dass wir seit Jahrtausenden darüber zanken, wessen Märchen das richtige ist.
 
 Und mit diesen 5 Heiligen Kränkungen und diesen 5 Goldenen Äpfeln schlage ich vor, dass genau dieser Zank die eigentliche Religion ist. Mein Discordianismus bedeutet daher, dass Kritik an Religion und Glauben zentraler Aspekt der Ausübung meiner Religion und meines Glaubens ist.
+
+---
+
+![5 Goldene Äpfel](../bilder/5-Aepfel.png)
