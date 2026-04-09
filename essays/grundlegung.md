@@ -22,11 +22,11 @@ Als Eris in der Mythologie aus Gekränktheit darüber, dass sie nicht zur Hochze
 So wie Eris auf die Kränkung mit ihrem goldenen Apfel „für die Allerschönste“ (καλλίστῃ) reagierte, möchte ich das mit fünf Haltungen machen, die ich als die 5 goldenen Äpfel bezeichne, denn auch sie sind die Grundlagen der meisten Streitigkeiten.
 
 ## Die 5 Goldenen Äpfel
-1. *ελευθερον (ELEUTHERON) — frei.* Nichts, was du tust, hat irgendeine kosmische Bedeutung. Das gibt dir die Freiheit, das zu tun, was richtig ist. 
-2. *εφημερον (EPHEMERON) — vergänglich* Dein Körper, dein Geist und deine Zeit sind endlich. Sie sind das kostbarste was du hast.
+1. **ελευθερον** (ELEUTHERON) — *frei.* Nichts, was du tust, hat irgendeine kosmische Bedeutung. Das gibt dir die Freiheit, das zu tun, was richtig ist. 
+2. **εφημερον** (EPHEMERON) — *vergänglich* Dein Körper, dein Geist und deine Zeit sind endlich. Sie sind das kostbarste was du hast.
 3.  *ισον (ISON) — gleich.* Was du für dich selbst beanspruchst, steht auch anderen zu. Was du anderen verwehrst, verwehrst du du auch dir selbst. 
-4. *σεαυτου (SEAUTOU) — deiner selbst.* Du bist für deine eigenen Gefühle verantwortlich und nicht für die anderer Menschen.
-5. *αδηλον (ADELON) — ungewiss* Niemand besitzt die absolute Wahrheit. Dass du an einem Punkt Recht hast, heißt nicht, dass du dich nicht jederzeit irren kannst.
+4. **σεαυτου** (SEAUTOU) — *deiner selbst.* Du bist für deine eigenen Gefühle verantwortlich und nicht für die anderer Menschen.
+5. **αδηλον** (ADELON) — *ungewiss* Niemand besitzt die absolute Wahrheit. Dass du an einem Punkt Recht hast, heißt nicht, dass du dich nicht jederzeit irren kannst.
 
 Ich behaupte, jede Religion wurde aus der Kränkung darüber gegründet, dass wir sind und die Welt ist, ohne dass es irgendeine Begründung dafür gab oder irgendein Einverständnis bestand. Seitdem suchen wir einen Sinn für das alles und erschaffen uns Märchen, die diesen Sinn stiften und Einheit geben sollen. Ironischerweise ist das in der Menschheitsgeschichte so oft passiert, dass wir seit Jahrtausenden darüber zanken, wessen Märchen das richtige ist.
 
