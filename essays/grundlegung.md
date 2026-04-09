@@ -13,11 +13,11 @@ Als Eris in der Mythologie aus Gekränktheit darüber, dass sie nicht zur Hochze
 
 ## Die 5 Heiligen Kränkungen
   
-  I. Die Welt ist.  
-  II. Ordnung ist temporär.
-  III. Das Leben schuldet dir nichts.  
-  IV. Gedanken sind von Realität nicht zu unterscheiden.  
-  V. Erkenntnis entsteht aus Widerlegung.
+- I. Die Welt ist.
+- II. Ordnung ist temporär.
+- III. Das Leben schuldet dir nichts.
+- IV. Gedanken sind von Realität nicht zu unterscheiden.
+- V. Erkenntnis entsteht aus Widerlegung.
 
 So wie Eris auf die Kränkung mit ihrem goldenen Apfel „für die Allerschönste“ (καλλίστῃ) reagierte, möchte ich das mit fünf Haltungen machen, die ich als die 5 goldenen Äpfel bezeichne, denn auch sie sind die Grundlagen der meisten Streitigkeiten.
 
