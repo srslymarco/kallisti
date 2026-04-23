@@ -1,5 +1,5 @@
 ---
-title: Pantheon
+title: Die logische Vollständigkeit der Göttin
 ---
 
 Wenn Eris existiert, existiert jede andere Gottheit. Wenn Eris eine Metapher ist, ist jede andere Gottheit eine Metapher. So ist jede Gottheit, ob metaphorisch oder nicht, ein Beweis und ein Zeugnis der Göttin.
