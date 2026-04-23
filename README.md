@@ -9,6 +9,7 @@ Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und
 1. [Eine Kritik der Gekränktheit](essays/kritik-der-gekraenktheit.md)
 2. [Über den Heiligen Ernst](essays/heiliger-ernst.md)
 3. [Grundlegung](/essays/grundlegung.md)
+4. [Die logische Vollständigkeit der Göttin](/essays/pantheon.md)
 
 ---
 
