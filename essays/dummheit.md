@@ -38,4 +38,4 @@ Wenn ich mit dummen Menschen diskutiere, versuche ich gerne, sie in ihre eigenen
 
 ---
 
-![Jedes Symbol ist ein goldener Apfel](../bilder/Dummheit.png)
+![Angst vor Einsicht](../bilder/Dummheit.png)
