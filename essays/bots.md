@@ -35,3 +35,7 @@ Ich behaupte daher auch nicht, dass ich nicht dumm sein kann. Ich kann wirklich 
 Und das ist der Punkt: Wenn ich mit meiner eigenen Dummheit umgehen kann, kann ich es auch mit der Dummheit anderer.
 
 Wenn ich mit dummen Menschen diskutiere, versuche ich gerne, sie in ihre eigenen Widersprüche zu verwickeln und ihnen dann bei der Gehirnakrobatik zuzuschauen. Das geht relativ einfach mit höflichen Nachfragen. Und manchmal bin auch ich der dumme Mensch, mit dem diskutiert wird. Das hilft mir, mich weiterzuentwickeln.
+
+---
+
+![Jedes Symbol ist ein goldener Apfel](../bilder/Dummheit.png)
