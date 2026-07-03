@@ -1,26 +1,37 @@
 ---
-title: Bots
+title: Über Dummheit
 ---
 
-# Trauer und Enttäuschung
+# Über Dummheit
 
-Manche Menschen denken nicht. Das ist eine starke Aussage und ich möchte sie hier näher ausführen, denn letztendlich geht es um die Frage, was Denken ist. Und was Dummheit ist.
+Manche Menschen denken nicht. Das ist eine starke Aussage und ich meine sie so. Es geht mir dabei nicht um Intelligenz oder um Bildung. Es geht mir darum, wie Menschen ganz konkret mit der Realität umgehen.
 
-Wenn du auf ein Problem stößt – etwa weil es etwas nicht so ist, wie du es erwartest – hast du verschiedene Möglichkeiten:
-- Du kannst behaupten, es gibt kein Problem und einfach weitermachen wie bisher.
-- Du kannst anderen die Schuld für das Problem geben und wütend auf sie sein.
-- Du kannst darauf hoffen, dass andere das Problem für dich lösen.
-- Du kannst dich über das Problem beschweren.
-- Du kannst anerkennen, dass da ein Problem ist, dich fragen woher es kommt und überlegen ob und wie du es lösen kannst.
+Wenn du auf ein Problem stößt – etwa weil etwas nicht so ist, wie du es erwartet hast –, hast du verschiedene Möglichkeiten, darauf zu reagieren:
 
-Ich habe das absichtlich so sortiert, dass sie den fünf Stufen des Trauerns nach Kübler-Ross entsprechen. Denn auf ein Problem zu stoßen, führt oft zu einer Enttäuschung. Und das führt zu Trauer um die verlorene Täuschung. Das meine ich wörtlich: Enttäuscht zu sein heißt, dass du dich über etwas getäuscht hast und du nun diese Täuschung verlierst – du wirst ent-täuscht. Die Täuschung war dabei meistens etwas, womit du dich wohl gefühlt hast; auch wenn es nicht unbedingt schön gewesen sein muss.
+- Du kannst behaupten, es gibt kein Problem, und einfach weitermachen wie bisher.
+- Du kannst anderen die Schuld geben und wütend auf sie sein.
+- Du kannst darauf warten, dass jemand anderes das Problem für dich löst.
+- Du kannst dich beschweren.
+- Oder du kannst anerkennen, dass da ein Problem ist, dich fragen, woher es kommt, und überlegen, ob und wie du es lösen kannst.
 
-Viele Leute fühlen sich zum Beispiel wohl mit dem Gedanken, dass bald "alles den Bach runter geht", ohne näher zu benennen, wie wir denn erkennen, dass nun alles den Bach runtergeht oder woran wir nach diesem Vorgang feststellen können, dass alles den Bach runtergegangen ist. Dieses permanente Gefühl von "wartet nur ab, ich hab's euch ja gesagt" kann beruhigen.
+Nur die letzte dieser Reaktionen benötigt echtes Nachdenken. Die anderen vier Reaktionen sehen vielleicht aus wie Denken, aber sie simulieren es nur. Das Problem (oder vielmehr der Sinn) dahinter ist nämlich: Sie lassen dein Bild von der Welt unangetastet. Das Problem wird geleugnet, abgeschoben, delegiert oder beklagt. Alles, um zu vermeiden, sich wirklich damit auseinandersetzen zu müssen.
 
-Enttäuschungen sind aber doch eigentlich etwas positives! Ist es nicht seltsam, dass wir oft sagen "Nun sehe ich, wie es wirklich ist", aber über diese Erkenntnis traurig oder verbittert sind, statt uns darüber zu freuen?
+Denn das ist aufwändig und riskant: Wer ein Problem wirklich anerkennt, muss damit rechnen, vorher falsch gelegen zu haben. Das würde bedeuten, etwas an sich ändern zu müssen – also etwas anderes zu tun oder aber das eigene Weltbild zu korrigieren. Und das kann bedeuten, sein ganzes bisheriges Leben und die eigene gesamte bisherige Identität über den Haufen zu werfen. Und Menschen können unglaublich kreativ sein und unglaublichen Aufwand betreiben, um genau das mit aller Kraft zu verhindern.
 
-Ich behaupte, es ist vor allem dann schmerzhaft, die Realität anzuerkennen, wenn du dir vorher eingeredet hast, sie wäre anders. Gleichzeitig habe wir wenig andere Wahl als uns nur ein Bild von der Realität zu machen (Grüße an Plato in die Höhle). Was wir aber auch tun können ist, andere Menschen zu fragen, wie denn ihr Bild der Realität ist. Und dieses Bild infrage zu stellen – genauso wie immer und jederzeit das eigene.
+Dummheit ist dabei nicht der Mangel an der Fähigkeit, zu denken. Dummheit ist die Fähigkeit, es zu vermeiden wenn es unangenehm werden könnte.
 
-Das Ganze lässt sich herunterbrechen auf die Weisheit: "Vertraue jenen, die die Wahrheit suchen und misstraue denen, die sie gefunden haben."
+Diese Art von Dummheit lässt an bestimmten Dingen erkennen: Dumme Menschen reflektieren ihr eigenes Verhalten und ihre eigenen Aussagen nicht, sondern nutzen ihre Aussagen und ihr Verhalten nur, um die eigene kognitive Dissonanz abzubauen.
 
-Und nein, das bedeutet nicht, dass du jedwede Aussage über die Realität einfach abstreiten kannst. Also, du kannst es schon tun. Aber dann solltest du dich nicht wundern wenn Dinge nicht so sind wie du erwartet hast.
+Das kannst du gut beobachten, wenn manche Leute bei bestimmten Aussagen gar nicht auf den Inhalt der Aussage eingehen, sondern plötzlich nur auf bestimmte Reizwörter reagieren.
+
+Oder wenn bei Widerspruch nicht der Widerspruch anerkannt oder widerlegt wird, sondern stattdessen die ursprüngliche Behauptung plötzlich eine andere ist als vorher.
+
+Und das Spannende ist, dass es keine böse Absicht ist, sondern einfach ein reflexhaftes Verhalten, um den Gedanken nicht aufkommen zu lassen, sich vielleicht geirrt zu haben.
+
+Ich behaupte daher, dass dumme Menschen sich nicht für dumm halten können – denn die eigene Dummheit zu erkennen, benötigt Intelligenz.
+
+Ich behaupte daher auch nicht, dass ich nicht dumm sein kann. Ich kann wirklich strunzdumm, überheblich und ignorant sein. Aber ich weiß es, bemerke es manchmal sogar von alleine und versuche, damit umzugehen.
+
+Und das ist der Punkt: Wenn ich mit meiner eigenen Dummheit umgehen kann, kann ich es auch mit der Dummheit anderer.
+
+Wenn ich mit dummen Menschen diskutiere, versuche ich gerne, sie in ihre eigenen Widersprüche zu verwickeln und ihnen dann bei der Gehirnakrobatik zuzuschauen. Das geht relativ einfach mit höflichen Nachfragen. Und manchmal bin auch ich der dumme Mensch, mit dem diskutiert wird. Das hilft mir, mich weiterzuentwickeln.
