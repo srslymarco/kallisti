@@ -26,4 +26,4 @@ Die Position des Erisentums ist der Streit im besten Sinne: Das Hinterfragen von
 
 ---
 
-![Angst vor Einsicht](../bilder/Dummheit.png)
+![Im Widerspruch](../bilder/Widerspruch.png)
