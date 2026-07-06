@@ -11,6 +11,7 @@ Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und
 3. [Grundlegung](/essays/grundlegung.md)
 4. [Die logische Vollständigkeit der Göttin](/essays/pantheon.md)
 5. [Über Dummheit](/essays/dummheit.md)
+6. [Im Widerspruch](/essays/widerspruch.md)
 
 ---
 
