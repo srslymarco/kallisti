@@ -20,6 +20,12 @@ Der orthodoxe Discordianismus tut das auch, verstrickt sich dabei aber so sehr i
 
 Die Endung "-ismus" ist hier auch verräterisch, wenn aus dem Christen-tum heraus (oder im Widerspruch dazu) ein Satan-ismus, ein Pastafarian-ismus oder eben ein Discordian-ismus entstehen und nicht etwa ein Satanentum, ein Pastafaritum oder ein Discordiatum. Dass diese Begriffe auch irgendwie eigentümlich klingen, aber ein Christenum nicht, ist auch vielsagend.
 
+Was passiert also, wenn ich dem Einen nicht aus der Position des Anderen heraus widerspreche, sondern aus der Position des Widerspruchs selbst?
+
+Natürlich kann ich dann immer noch als "anderer" markiert werden, aber das passiert dann oftmals dermaßen willkürlich, dass es keine Rolle spielt. Deshalb rede ich vom Erisentum und konkret von meinem Erisentum statt von einem weiteren -ismus.
+
+Die Position des Erisentums ist der Streit im besten Sinne: Das Hinterfragen von Dogmen ist das Dogma. Das Kritisieren von Religion ist die Religion. Und die Ablehnung von Gottheiten ist der Dienst an der Gottheit.
+
 ---
 
 ![Angst vor Einsicht](../bilder/Dummheit.png)
