@@ -1,6 +1,6 @@
 ![καλλιστι](bilder/kallisti-white.png)
 
-Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und atheistische Religion im zweiten Viertel des 21. Jahrhunderts.
+Erisische Ausschweifungen. Gedanken und Fragmente über Macht, Zwietracht, Religiosität und Atheismus im zweiten Viertel des 21. Jahrhunderts.
 
 ---
 
@@ -17,7 +17,7 @@ Erisische Ausschweifungen. Essays, Fragmente und Gedanken über Macht, Chaos und
 
 ## Über
 
-srslymarco zankt sich seit über 25 Jahren in Foren und Kommentarspalten. Hier liegen die längeren Gedanken, die dazu geführt haben und zu mehr führen.
+Wir leben im Zeitalter des Streits, der Zwietracht und der Entfremdung. Menschen leben schon immer in ihren eigenen Realitäten, aber es wird zunehmend schwer bis unmöglich, sich mit anderen darüber auszutauschen, was überhaupt nachweislich real ist. Vielleicht war das schon immer so. Vielleicht fiel es nur nicht auf, weil es weniger Erzählungen über die Realität zur Auswahl gab. Vielleicht war es auch weniger wichtig weil die Welt übersichtlicher erschien.
 
 ---
 
