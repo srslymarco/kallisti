@@ -33,7 +33,7 @@ Fließtext …
 ## Typografie (verbindlich)
 
 - Deutsche Anführungszeichen: öffnend „ (U+201E), schließend “ (U+201C). Niemals `"` (U+0022), niemals ” (U+201D). Vor jedem Commit prüfen:
-  `grep -rn '["”]' --include=*.md essays README.md` darf außerhalb von Front Matter und Code nichts finden.
+  `grep -Pn '[\x{22}\x{201D}]' essays/*.md README.md | grep -v ':title:'` (mit UTF-8-Locale, z. B. `LC_ALL=C.UTF-8`) darf nichts finden.
 - Gedankenstrich mit Leerzeichen: ` – ` (U+2013), kein Bindestrich als Gedankenstrich.
 - Griechisch bleibt Griechisch (καλλιστι, Namen der Goldenen Äpfel in Majuskeln mit Transliteration).
 
