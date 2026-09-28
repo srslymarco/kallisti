@@ -2,7 +2,7 @@
 
 *Arbeitsdokument. Nicht Teil der Website. Grundlage für neue Einträge und für jede Session, die an Texten arbeitet.*
 
-Stand: 28. September 2026 · Entwurf 0.3, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
+Stand: 28. September 2026 · Entwurf 0.4, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
 
 ---
 
@@ -63,7 +63,8 @@ Die Kränkungen beschreiben, was ist. Die Äpfel beschreiben, wie man sich dazu 
 - **Streit als Kult.** Der Zank um die richtige Erzählung ist die eigentliche Religion. Kritik an Religion und Glauben ist die zentrale Ausübung. *(Grundlegung)*
 - **Das Dogma.** Das Hinterfragen von Dogmen ist das Dogma. Das Kritisieren von Religion ist die Religion. Die Ablehnung von Gottheiten ist der Dienst an der Gottheit. *(Im Widerspruch)*
 - **Methode der höflichen Nachfrage.** Keine Gegenposition einnehmen, sondern nachfragen, bis das Gegenüber seine Position begründen muss oder sich in eigene Widersprüche verwickelt. *(Dummheit, Im Widerspruch)*
-- **Widerlegbarkeit.** Jede inhaltliche Aussage wird so formuliert, dass klar ist, was sie widerlegen würde. Wo das nicht geht, wird sie als Setzung gekennzeichnet. Wer einen Fehler nachweist, erweist der Göttin einen Dienst (Kränkung V).
+- **Postulate.** Die Texte arbeiten mit zugespitzten Behauptungen, die Widerspruch provozieren sollen: „Halt, stimmt nicht – und hier ist der Grund.“ Das ist gewollt und wird nicht abgeschwächt. Je kühner ein Postulat, desto wertvoller, solange es widerlegbar bleibt (Popper: kühne Vermutungen). *(Gespräch 28.09.2026)*
+- **Widerlegbarkeit.** Einziges Kriterium für ein Postulat: Es muss ein denkbares Gegenbeispiel oder Gegenargument geben, mit dem man es kippen kann. Ein Postulat, das jeden Einwand schon eingebaut hat, provoziert zwar, lässt sich aber nicht gewinnen, und damit ist es tote Provokation. Wer ein Postulat widerlegt, erweist der Göttin einen Dienst (Kränkung V); die Widerlegung wird anerkannt, nicht umgedeutet.
 - **Selbstanwendung.** Jede Kritik gilt auch für den Autor. „Ich kann wirklich strunzdumm sein“ ist Teil der Methode, nicht Bescheidenheitsfloskel. *(Dummheit, Heiliger Ernst)*
 - **Rituale.** Bisher nur negativ bestimmt: Rituale ohne Erkenntnis sind Performance. *(Grundlegung)* *[offen, siehe 8.4]*
 
@@ -121,11 +122,14 @@ Die Grundlegung spricht noch von „meinem Discordianismus“, *Im Widerspruch* 
 Die Theologie ist bewusst widersprüchlich. ISON und SEAUTOU sind dagegen stabile ethische Setzungen, vergleichbar den Seven Tenets des Satanic Temple. Arbeitshypothese: Widerspruch in der Metaphysik, Festigkeit in der Ethik. Trägt das, und stiftet gerade der feste Teil die Gemeinschaft?
 
 ### 8.9 Prüfstand Widerlegbarkeit
-Aussagen in den bestehenden Texten, die als Inhalt auftreten, aber derzeit nicht widerlegbar oder nicht haltbar formuliert sind:
-- *Kritik der Gekränktheit:* „Ohne Zweifel entspringt die Religion dem kindlichen Bedürfnis …“ – eine empirische These über den Ursprung von Religion, die als Gewissheit auftritt. Entweder als These mit Begründung oder ausdrücklich als Setzung.
-- *Pantheon:* „Wenn Eris existiert, existiert jede andere Gottheit.“ – tritt als logischer Schluss auf, folgt aber nicht ohne eine unausgesprochene Prämisse (etwa: Eris als Göttin des Widerspruchs umfasst jede Gegenbehauptung). Prämisse nennen oder als Setzung kennzeichnen.
-- *Über Dummheit:* „Dumme Menschen können sich nicht für dumm halten.“ – so formuliert unwiderlegbar, weil jeder, der sich für dumm hält, damit als nicht dumm gilt.
-- *Zeitalter der Zwietracht:* „evident“ ist kein Kriterium. Was würde die Diagnose widerlegen?
+Postulate in den bestehenden Texten, geprüft nur auf eine Frage: Kann man sie kippen?
+- *Kritik der Gekränktheit:* „Ohne Zweifel entspringt die Religion dem kindlichen Bedürfnis …“ – widerlegbar (konkurrierende Theorien über den Ursprung von Religion). Tragfähiges Postulat, bleibt.
+- *Pantheon:* „Wenn Eris existiert, existiert jede andere Gottheit.“ – widerlegbar, der Schluss braucht eine unausgesprochene Prämisse, und das kann jemand zeigen. Tragfähiges Postulat, bleibt; die Widerlegung muss dann aber angenommen werden.
+- *Über Dummheit:* „Dumme Menschen können sich nicht für dumm halten.“ – nicht widerlegbar, weil jeder, der sich für dumm hält, damit als nicht dumm gilt. Einziger echter Umbaufall.
+- *Zeitalter der Zwietracht:* tragfähig als Postulat, aber „evident“ nimmt die Angriffsfläche weg. Stärker: ausdrücklich zur Widerlegung anbieten.
+
+### 8.10 Wo findet der Widerspruch statt?
+Die Seite hat keine Kommentarfunktion (bewusst, siehe Datenschutz). Wenn Postulate zum Widerspruch einladen sollen, braucht es einen Ort dafür – und einen Umgang mit erfolgreichen Widerlegungen. Idee: jeder Essay endet mit einer Einladung zum Widerspruch (Mastodon, E-Mail), und angenommene Widerlegungen werden dokumentiert statt still eingearbeitet, etwa als eigene Seite „Widerlegungen“ oder als Anhang am jeweiligen Text. Der Kanon verzeichnet seine eigenen Niederlagen.
 
 ## 9. Themenspeicher
 
@@ -137,6 +141,7 @@ Aussagen in den bestehenden Texten, die als Inhalt auftreten, aber derzeit nicht
 | Über die Unwiderlegbarkeit (Selbstanwendung auf das Erisentum) | 8.2, Grundparadox | Idee, Priorität nach *about* |
 | Das Zeitalter der Zwietracht | Abschnitt 1, LaVey 1966 | Idee |
 | Über den performativen Selbstwiderspruch | Apel/Habermas, umgewertet | Idee |
+| Widerlegungen (fortlaufend) | 8.10 | Idee |
 | Über die Heiligsprechung (Eingemeindung als Methode) | Heiliger Ernst, Pantheon | Idee |
 | Über die Verantwortung für die eigene Kränkung | 8.3, SEAUTOU | Idee |
 | Über Rituale und ihr Fehlen | 8.4 | Idee |
