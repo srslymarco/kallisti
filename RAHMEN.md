@@ -2,7 +2,7 @@
 
 *Arbeitsdokument. Nicht Teil der Website. Grundlage für neue Einträge und für jede Session, die an Texten arbeitet.*
 
-Stand: 28. September 2026 · Entwurf 0.4, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
+Stand: 28. September 2026 · Entwurf 0.5, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
 
 ---
 
@@ -125,11 +125,12 @@ Die Theologie ist bewusst widersprüchlich. ISON und SEAUTOU sind dagegen stabil
 Postulate in den bestehenden Texten, geprüft nur auf eine Frage: Kann man sie kippen?
 - *Kritik der Gekränktheit:* „Ohne Zweifel entspringt die Religion dem kindlichen Bedürfnis …“ – widerlegbar (konkurrierende Theorien über den Ursprung von Religion). Tragfähiges Postulat, bleibt.
 - *Pantheon:* „Wenn Eris existiert, existiert jede andere Gottheit.“ – widerlegbar, der Schluss braucht eine unausgesprochene Prämisse, und das kann jemand zeigen. Tragfähiges Postulat, bleibt; die Widerlegung muss dann aber angenommen werden.
-- *Über Dummheit:* „Dumme Menschen können sich nicht für dumm halten.“ – nicht widerlegbar, weil jeder, der sich für dumm hält, damit als nicht dumm gilt. Einziger echter Umbaufall.
+- *Über Dummheit:* „Dumme Menschen können sich nicht für dumm halten.“ – Autor hält es für richtig (28.09.2026). Strittig ist nicht die Wahrheit, sondern der Status: So formuliert ist es eine Definition (analytisch wahr), keine Behauptung über die Welt. Zudem widerspricht der Essay sich selbst: „Ich kann strunzdumm sein … aber ich weiß es.“ Vorschlag zur Diskussion: „Im Moment der Dummheit kann man sie nicht bemerken, erst danach.“ – widerlegbar und mit der Selbstaussage vereinbar. Offen.
 - *Zeitalter der Zwietracht:* tragfähig als Postulat, aber „evident“ nimmt die Angriffsfläche weg. Stärker: ausdrücklich zur Widerlegung anbieten.
 
 ### 8.10 Wo findet der Widerspruch statt?
 Die Seite hat keine Kommentarfunktion (bewusst, siehe Datenschutz). Wenn Postulate zum Widerspruch einladen sollen, braucht es einen Ort dafür – und einen Umgang mit erfolgreichen Widerlegungen. Idee: jeder Essay endet mit einer Einladung zum Widerspruch (Mastodon, E-Mail), und angenommene Widerlegungen werden dokumentiert statt still eingearbeitet, etwa als eigene Seite „Widerlegungen“ oder als Anhang am jeweiligen Text. Der Kanon verzeichnet seine eigenen Niederlagen.
+Ergänzend (28.09.2026): Die Reichweite auf Mastodon und Threads ist klein, es widerspricht dort kaum jemand. Weitere Wege: (1) GitHub selbst als Ort des Widerspruchs – Issues für Einwände, Pull Requests und Forks für Weiterbauen, passend zu CC BY-SA und dem Ziel, dass andere darauf aufbauen. (2) Vor jeder Veröffentlichung die stärkste Gegenposition zu jedem Postulat ausarbeiten (mit Claude als Advocatus Diaboli); tragfähige Einwände gehen in den Text oder auf die Widerlegungsseite. Selbstwiderlegung zählt als Widerlegung.
 
 ## 9. Themenspeicher
 
