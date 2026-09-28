@@ -9,7 +9,7 @@ Dass Malaclypse der Jüngere diese Frage auf den Kopf stellt, ist sicher richtig
 
 Diese Frage stellt der orthodoxe Discordianismus zwar, aber weicht ihrer Beantwortung in konsequenter Willkür aus. Ich denke da an den rituellen „Gobble“-Ruf, der die gleichzeitige Bedeutung und die Beliebigkeit von Ritualen zeigt. Das ist erfrischend, aber lustige Kleidung und lautmalerische Gesänge finden wir in allen Religionen. Ich will gar nicht abstreiten, dass auch in allen anderen Religionen zu viele Gläubige sich lieber auf das Performen der Rituale konzentrieren anstatt sich die eigentliche Frage zu stellen, was sie mit der Erkenntnis anfangen, die ihr Glaube ihnen gibt (oder verwehrt).
 
-Als Eris in der Mythologie aus Gekränktheit darüber, dass sie nicht zur Hochzeit von Peleus und Thetis eingeladen wurde, den goldenen Apfel mit der Aufschrift „tē kallistē“ unter die Gäste warf, war das jedoch kein Ritual, sondern ein wirksamer Akt der Subversion. Eris und ihr Beispiel anzuerkennen, kann also nur bedeuten, ebenfalls wirksam und subversiv zu sein. Und Gründe, gekränkt zu sein, gibt es mehr als genug – allen voran die schiere Existenz allen Seins. Um das übersichtlicher zu machen, definiere ich fünf heilige Kränkungen, aus denen heraus wir tun was wir tun.
+Als Eris in der Mythologie aus Gekränktheit darüber, dass sie nicht zur Hochzeit von Peleus und Thetis eingeladen wurde, den goldenen Apfel mit der Aufschrift „tē kallistē“ unter die Gäste warf, war das jedoch kein Ritual, sondern ein wirksamer Akt der Subversion. Eris und ihr Beispiel anzuerkennen, kann also nur bedeuten, ebenfalls wirksam und subversiv zu sein. Und Gründe, gekränkt zu sein, gibt es mehr als genug – allen voran die schiere Existenz allen Seins. Um das übersichtlicher zu machen, definiere ich fünf heilige Kränkungen, aus denen heraus wir tun, was wir tun.
 
 ## Die 5 Heiligen Kränkungen
   
@@ -23,10 +23,10 @@ So wie Eris auf die Kränkung mit ihrem goldenen Apfel „für die Allerschönst
 
 ## Die 5 Goldenen Äpfel
 1. **ελευθερον** (ELEUTHERON) — *frei.* Nichts, was du tust, hat irgendeine kosmische Bedeutung. Das gibt dir die Freiheit, das zu tun, was richtig ist. 
-2. **εφημερον** (EPHEMERON) — *vergänglich* Dein Körper, dein Geist und deine Zeit sind endlich. Sie sind das kostbarste was du hast.
-3. **ισον** (ISON) — *gleich.* Was du für dich selbst beanspruchst, steht auch anderen zu. Was du anderen verwehrst, verwehrst du du auch dir selbst. 
+2. **εφημερον** (EPHEMERON) — *vergänglich.* Dein Körper, dein Geist und deine Zeit sind endlich. Sie sind das Kostbarste, was du hast.
+3. **ισον** (ISON) — *gleich.* Was du für dich selbst beanspruchst, steht auch anderen zu. Was du anderen verwehrst, verwehrst du auch dir selbst. 
 4. **σεαυτου** (SEAUTOU) — *deiner selbst.* Du bist für deine eigenen Gefühle verantwortlich und nicht für die anderer Menschen.
-5. **αδηλον** (ADELON) — *ungewiss* Niemand besitzt die absolute Wahrheit. Dass du an einem Punkt Recht hast, heißt nicht, dass du dich nicht jederzeit irren kannst.
+5. **αδηλον** (ADELON) — *ungewiss.* Niemand besitzt die absolute Wahrheit. Dass du an einem Punkt Recht hast, heißt nicht, dass du dich nicht jederzeit irren kannst.
 
 Ich behaupte, jede Religion wurde aus der Kränkung darüber gegründet, dass wir sind und die Welt ist, ohne dass es irgendeine Begründung dafür gab oder irgendein Einverständnis bestand. Seitdem suchen wir einen Sinn für das alles und erschaffen uns Märchen, die diesen Sinn stiften und Einheit geben sollen. Ironischerweise ist das in der Menschheitsgeschichte so oft passiert, dass wir seit Jahrtausenden darüber zanken, wessen Märchen das richtige ist.
 

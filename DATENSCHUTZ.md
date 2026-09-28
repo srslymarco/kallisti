@@ -1,3 +1,7 @@
+---
+title: Datenschutz
+---
+
 # Datenschutz
 
 ## Verantwortlicher

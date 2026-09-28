@@ -18,9 +18,9 @@ Ebenso entstanden die satanischen Religionen aus der Kränkung heraus, sich eine
 
 Bei all der Ablehnung einer göttlichen Macht (und letztendlich ist auch deren sinnfreie Anbetung ein gekonntes Umschiffen des eigentlichen Punktes, nämlich, wie man mental halbwegs unbeschadet durch diese Realität kommt ohne dabei möglichst anderen zu schaden) fiel mir jedoch auf, dass so oder so stets Macht über andere ausgeübt wird. Das ist menschlich. Es aber in einer Religion zu zementieren, ist vielleicht nicht die klügste Art, das zu ändern.
 
-Hier stelle also ich die These auf, dass Religion nicht zersetzt werden kann, indem man exakt die Mechanismen reproduziert, die man kritisiert ohne sich sich selbst ebenso scharf zu kritisieren.
+Hier stelle also ich die These auf, dass Religion nicht zersetzt werden kann, indem man exakt die Mechanismen reproduziert, die man kritisiert ohne sich selbst ebenso scharf zu kritisieren.
 
-Sollte man Religion zersetzen? Unbedingt. Warum sollte man Religion zersetzen? Weil es kein guter Umgang ist, die eigene existienzielle Gekränktheit auf etwas nicht Vorhandenes projizieren zu wollen – und weil das notwendigerweise immer vergeblich ist – stattdessen sein gesamtes Umfeld in Mitleidenschaft zu ziehen. Genauso ist es kein guter Umgang, die eigene Gekränktheit darüber, genau davon in Mitleidenschaft gezogen zu werden, zurückzuprojizieren.
+Sollte man Religion zersetzen? Unbedingt. Warum sollte man Religion zersetzen? Weil es kein guter Umgang ist, die eigene existenzielle Gekränktheit auf etwas nicht Vorhandenes projizieren zu wollen – und weil das notwendigerweise immer vergeblich ist – stattdessen sein gesamtes Umfeld in Mitleidenschaft zu ziehen. Genauso ist es kein guter Umgang, die eigene Gekränktheit darüber, genau davon in Mitleidenschaft gezogen zu werden, zurückzuprojizieren.
 
 Letztendlich ist Religion also immer ein Versuch, aus einer Kränkung heraus andere zu kränken, da die eigentlich Verantwortliche (die verdammte Realität) nicht verfügbar ist.
 
