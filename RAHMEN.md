@@ -2,7 +2,7 @@
 
 *Arbeitsdokument. Nicht Teil der Website. Grundlage für neue Einträge und für jede Session, die an Texten arbeitet.*
 
-Stand: 28. September 2026 · Entwurf 0.1, abgeleitet aus den sechs veröffentlichten Essays
+Stand: 28. September 2026 · Entwurf 0.2, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
 
 ---
 
@@ -12,7 +12,13 @@ Wir bauen eine Religion, deren heiliger Akt die Dekonstruktion der Religion ist.
 
 Das Erisentum ist keine Gegenreligion (wie Satanismus) und keine Parodie (wie Pastafarianismus). Beide beziehen ihre Legitimation aus dem Einen, gegen das sie stehen, und bestätigen es dadurch. Das Erisentum spricht nicht aus der Position des Anderen, sondern aus der Position des Widerspruchs selbst. *(Im Widerspruch)*
 
-**Ziel der Texte:** *[offen, siehe 8.1]*
+**Ziel der Texte:** In erster Linie Selbstverständigung: die eigenen Gedanken ordnen. Daraus soll ein Gerüst entstehen, mit dem sich dem allgemeinen Irrsinn der Zeit begegnen lässt, und über dieses Gerüst Gemeinschaft. Die Wege dahin sind Ambiguitätstoleranz und performativer Selbstwiderspruch.
+
+**Vorbild:** die satanische Theologie des Satanic Temple, also die ernsthafte Auseinandersetzung mit dem eigenen Glauben, ohne dessen Mythologie wörtlich zu nehmen.
+
+**Zeitdiagnose:** So wie Anton LaVey 1966 das Zeitalter Satans ausgerufen hat, leben wir im **Zeitalter der Zwietracht**.
+
+**Grundparadox:** Eine Religion, die darin besteht, Religion zu dekonstruieren, kann keine Religion sein, denn sie dekonstruiert sich selbst. In dieser Unwiderlegbarkeit gleicht sie aber einer Religion: Sie beweist sich, indem sie sich widerspricht. Jede Religion widerspricht sich; das Erisentum tut es offen und gründet darauf.
 
 ## 2. Ausgangsthese: Religion als Kränkung
 
@@ -78,17 +84,20 @@ Die Kränkungen beschreiben, was ist. Die Äpfel beschreiben, wie man sich dazu 
 | Kränkung | existenzielle Zumutung, Ursprung von Religion und Handeln |
 | das Eine / das Andere | Mehrheitsreligion und ihre Gegenpositionen |
 | καλλιστι | Titel, Gruß, Schlussformel („Kallisti!“) |
+| Zeitalter der Zwietracht | Zeitdiagnose, analog zu LaVeys Zeitalter Satans (1966) |
+| performativer Selbstwiderspruch | bei Apel und Habermas ein Widerlegungsargument, im Erisentum umgewertet zur Tugend und Methode |
+| Ambiguitätstoleranz | Fähigkeit, Widersprüche offen zu halten, ohne sie aufzulösen; Weg zur Gemeinschaft |
 
 ## 8. Offene Fragen und Widersprüche
 
 *Diese Liste wird gepflegt, nicht aufgelöst. Ein Widerspruch wird erst gestrichen, wenn entschieden ist, ob er Fehler oder Feature ist.*
 
 ### 8.1 Ziel und Publikum
-Für wen sind die Texte, und was sollen sie bewirken? Aufklärung, Provokation, Gemeindebildung, Selbstverständigung, Performance?
+*Entschieden (28.09.2026), siehe Abschnitt 1.*
 
 ### 8.2 Selbstimmunisierung
-Das zentrale Problem. „Die Ablehnung des Atheismus ist erisisch“ und „die Ablehnung von Gottheiten ist der Dienst an der Gottheit“ machen das Erisentum unwiderlegbar: Jeder Einwand wird eingemeindet. Genau das definiert *about* als Merkmal von Religion (geschlossen, nicht überprüfbar), und *Im Widerspruch* kritisiert Weltbilder, die durch Widerspruch stärker werden. Kränkung V sagt: Erkenntnis entsteht aus Widerlegung.
-→ Entscheidung nötig: Ist die Unwiderlegbarkeit ein Fehler, oder ist sie die Pointe – eine Religion, die vorführt, wie Religion sich immunisiert, und sich dabei selbst ertappt? Wenn Pointe: Das muss irgendwo ausgesprochen werden, sonst liest es sich wie ein blinder Fleck. Wenn Fehler: Was würde das Erisentum widerlegen?
+*Grundsätzlich entschieden: Die Unwiderlegbarkeit ist Absicht, nicht blinder Fleck (siehe Grundparadox in Abschnitt 1). Sie muss in einem Eintrag offen ausgesprochen werden.*
+Offen bleibt das Kriterium: Wie unterscheidet sich ein erisischer Selbstwiderspruch von der „Gehirnakrobatik“, die *Über Dummheit* anderen vorwirft? Wer jeden aufgedeckten Widerspruch nachträglich zur Absicht erklärt, beendet das Gespräch genauso wie die Leute im Dummheit-Essay. Arbeitshypothese: Erisisch ist ein Widerspruch nur, wenn er vorher offen gesetzt ist und beide Seiten ernst genommen werden. Ein Widerspruch, den andere aufdecken, wird anerkannt und bearbeitet, nicht eingemeindet.
 
 ### 8.3 Kränkung vs. SEAUTOU
 Religion entsteht aus Kränkung und kränkt andere; die Grundlegung leitet auch das erisische Handeln aus den Kränkungen ab („aus denen heraus wir tun, was wir tun“). Zugleich sagt SEAUTOU: Du bist für deine eigenen Gefühle verantwortlich. Wer das ernst nimmt, darf aus Kränkung nicht handeln. Unterscheidet sich die erisische Kränkung von der religiösen – und worin?
@@ -105,6 +114,9 @@ Außer Streit und Nachfrage gibt es keine positive Praxis. Braucht das Erisentum
 ### 8.7 Terminologie
 Die Grundlegung spricht noch von „meinem Discordianismus“, *Im Widerspruch* verwirft den -ismus zugunsten von „Erisentum“. Rückwirkend angleichen oder als dokumentierte Entwicklung stehen lassen?
 
+### 8.8 Wo darf sich das Erisentum nicht widersprechen?
+Die Theologie ist bewusst widersprüchlich. ISON und SEAUTOU sind dagegen stabile ethische Setzungen, vergleichbar den Seven Tenets des Satanic Temple. Arbeitshypothese: Widerspruch in der Metaphysik, Festigkeit in der Ethik. Trägt das, und stiftet gerade der feste Teil die Gemeinschaft?
+
 ## 9. Themenspeicher
 
 *Kandidaten für neue Einträge. Status: Idee → in Arbeit → veröffentlicht.*
@@ -112,7 +124,9 @@ Die Grundlegung spricht noch von „meinem Discordianismus“, *Im Widerspruch* 
 | Thema | Anknüpfung | Status |
 |---|---|---|
 | Meine Religion ist keine Religion | *about*; Definition von Religion | in Arbeit |
-| Über die Unwiderlegbarkeit (Selbstanwendung auf das Erisentum) | 8.2 | Idee |
+| Über die Unwiderlegbarkeit (Selbstanwendung auf das Erisentum) | 8.2, Grundparadox | Idee, Priorität nach *about* |
+| Das Zeitalter der Zwietracht | Abschnitt 1, LaVey 1966 | Idee |
+| Über den performativen Selbstwiderspruch | Apel/Habermas, umgewertet | Idee |
 | Über die Heiligsprechung (Eingemeindung als Methode) | Heiliger Ernst, Pantheon | Idee |
 | Über die Verantwortung für die eigene Kränkung | 8.3, SEAUTOU | Idee |
 | Über Rituale und ihr Fehlen | 8.4 | Idee |
