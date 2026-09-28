@@ -2,7 +2,7 @@
 
 *Arbeitsdokument. Nicht Teil der Website. Grundlage für neue Einträge und für jede Session, die an Texten arbeitet.*
 
-Stand: 28. September 2026 · Entwurf 0.2, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
+Stand: 28. September 2026 · Entwurf 0.3, abgeleitet aus den sechs veröffentlichten Essays und dem Gespräch vom 28.09.2026
 
 ---
 
@@ -19,6 +19,8 @@ Das Erisentum ist keine Gegenreligion (wie Satanismus) und keine Parodie (wie Pa
 **Zeitdiagnose:** So wie Anton LaVey 1966 das Zeitalter Satans ausgerufen hat, leben wir im **Zeitalter der Zwietracht**.
 
 **Grundparadox:** Eine Religion, die darin besteht, Religion zu dekonstruieren, kann keine Religion sein, denn sie dekonstruiert sich selbst. In dieser Unwiderlegbarkeit gleicht sie aber einer Religion: Sie beweist sich, indem sie sich widerspricht. Jede Religion widerspricht sich; das Erisentum tut es offen und gründet darauf.
+
+**Falsifizierbarkeit:** Dieser eine Widerspruch ist der einzige, der gewollt ist. Er ist strukturell, selbstbezüglich und offen erklärt: der Rahmen, nicht der Inhalt. Alles innerhalb des Rahmens – Aussagen über Menschen, Gesellschaft, Religion und die Zeit – muss widerlegbar sein, und der Autor will widerlegt werden, wenn er Unrecht hat. Ein Erisentum, das sich ständig widerspricht, wäre Beliebigkeit, kein Glaube. *(Gespräch 28.09.2026)*
 
 ## 2. Ausgangsthese: Religion als Kränkung
 
@@ -61,6 +63,7 @@ Die Kränkungen beschreiben, was ist. Die Äpfel beschreiben, wie man sich dazu 
 - **Streit als Kult.** Der Zank um die richtige Erzählung ist die eigentliche Religion. Kritik an Religion und Glauben ist die zentrale Ausübung. *(Grundlegung)*
 - **Das Dogma.** Das Hinterfragen von Dogmen ist das Dogma. Das Kritisieren von Religion ist die Religion. Die Ablehnung von Gottheiten ist der Dienst an der Gottheit. *(Im Widerspruch)*
 - **Methode der höflichen Nachfrage.** Keine Gegenposition einnehmen, sondern nachfragen, bis das Gegenüber seine Position begründen muss oder sich in eigene Widersprüche verwickelt. *(Dummheit, Im Widerspruch)*
+- **Widerlegbarkeit.** Jede inhaltliche Aussage wird so formuliert, dass klar ist, was sie widerlegen würde. Wo das nicht geht, wird sie als Setzung gekennzeichnet. Wer einen Fehler nachweist, erweist der Göttin einen Dienst (Kränkung V).
 - **Selbstanwendung.** Jede Kritik gilt auch für den Autor. „Ich kann wirklich strunzdumm sein“ ist Teil der Methode, nicht Bescheidenheitsfloskel. *(Dummheit, Heiliger Ernst)*
 - **Rituale.** Bisher nur negativ bestimmt: Rituale ohne Erkenntnis sind Performance. *(Grundlegung)* *[offen, siehe 8.4]*
 
@@ -96,8 +99,8 @@ Die Kränkungen beschreiben, was ist. Die Äpfel beschreiben, wie man sich dazu 
 *Entschieden (28.09.2026), siehe Abschnitt 1.*
 
 ### 8.2 Selbstimmunisierung
-*Grundsätzlich entschieden: Die Unwiderlegbarkeit ist Absicht, nicht blinder Fleck (siehe Grundparadox in Abschnitt 1). Sie muss in einem Eintrag offen ausgesprochen werden.*
-Offen bleibt das Kriterium: Wie unterscheidet sich ein erisischer Selbstwiderspruch von der „Gehirnakrobatik“, die *Über Dummheit* anderen vorwirft? Wer jeden aufgedeckten Widerspruch nachträglich zur Absicht erklärt, beendet das Gespräch genauso wie die Leute im Dummheit-Essay. Arbeitshypothese: Erisisch ist ein Widerspruch nur, wenn er vorher offen gesetzt ist und beide Seiten ernst genommen werden. Ein Widerspruch, den andere aufdecken, wird anerkannt und bearbeitet, nicht eingemeindet.
+*Entschieden (28.09.2026):* Unwiderlegbar ist nur der Rahmen, also das eine, offen erklärte Grundparadox. Alle inhaltlichen Aussagen sind widerlegbar (siehe Abschnitt 1, Falsifizierbarkeit). Ein Widerspruch, den andere aufdecken, wird anerkannt und korrigiert, nie nachträglich zur Absicht erklärt – das wäre die „Gehirnakrobatik“ aus *Über Dummheit*.
+Noch zu tun: Die bestehenden Texte daraufhin prüfen, wo Eingemeindungsformeln über den Rahmen hinaus auf Inhalte übergreifen (etwa „die Ablehnung des Atheismus ist erisisch“), und die Aussagen aus 8.9 bearbeiten.
 
 ### 8.3 Kränkung vs. SEAUTOU
 Religion entsteht aus Kränkung und kränkt andere; die Grundlegung leitet auch das erisische Handeln aus den Kränkungen ab („aus denen heraus wir tun, was wir tun“). Zugleich sagt SEAUTOU: Du bist für deine eigenen Gefühle verantwortlich. Wer das ernst nimmt, darf aus Kränkung nicht handeln. Unterscheidet sich die erisische Kränkung von der religiösen – und worin?
@@ -116,6 +119,13 @@ Die Grundlegung spricht noch von „meinem Discordianismus“, *Im Widerspruch* 
 
 ### 8.8 Wo darf sich das Erisentum nicht widersprechen?
 Die Theologie ist bewusst widersprüchlich. ISON und SEAUTOU sind dagegen stabile ethische Setzungen, vergleichbar den Seven Tenets des Satanic Temple. Arbeitshypothese: Widerspruch in der Metaphysik, Festigkeit in der Ethik. Trägt das, und stiftet gerade der feste Teil die Gemeinschaft?
+
+### 8.9 Prüfstand Widerlegbarkeit
+Aussagen in den bestehenden Texten, die als Inhalt auftreten, aber derzeit nicht widerlegbar oder nicht haltbar formuliert sind:
+- *Kritik der Gekränktheit:* „Ohne Zweifel entspringt die Religion dem kindlichen Bedürfnis …“ – eine empirische These über den Ursprung von Religion, die als Gewissheit auftritt. Entweder als These mit Begründung oder ausdrücklich als Setzung.
+- *Pantheon:* „Wenn Eris existiert, existiert jede andere Gottheit.“ – tritt als logischer Schluss auf, folgt aber nicht ohne eine unausgesprochene Prämisse (etwa: Eris als Göttin des Widerspruchs umfasst jede Gegenbehauptung). Prämisse nennen oder als Setzung kennzeichnen.
+- *Über Dummheit:* „Dumme Menschen können sich nicht für dumm halten.“ – so formuliert unwiderlegbar, weil jeder, der sich für dumm hält, damit als nicht dumm gilt.
+- *Zeitalter der Zwietracht:* „evident“ ist kein Kriterium. Was würde die Diagnose widerlegen?
 
 ## 9. Themenspeicher
 
