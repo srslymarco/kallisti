@@ -2,6 +2,10 @@
 
 Dieses Repo ist die Quelle der Website https://srslymarco.github.io/kallisti/ (GitHub Pages, Jekyll, `baseurl: /kallisti`). Autor: Marco (srslymarco). Alle Texte sind deutschsprachige Essays über Eris, Zwietracht, Religion und Atheismus.
 
+## Rahmen
+
+`RAHMEN.md` ist das inhaltliche Fundament: Vorhaben, Axiomatik, Theologie, Praxis, Terminologie, offene Widersprüche und Themenspeicher. Vor jeder Arbeit an Texten lesen. Neue Einträge daraus ableiten; Entscheidungen, neue Begriffe und neue Widersprüche dort nachtragen. Offene Widersprüche werden nicht stillschweigend aufgelöst.
+
 ## Struktur
 
 - `essays/<slug>.md` – ein Essay pro Datei, Slug in Kleinbuchstaben, Umlaute als `ae`/`oe`/`ue`/`ss`

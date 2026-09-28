@@ -1,6 +1,7 @@
 baseurl: /kallisti
 exclude:
   - CLAUDE.md
+  - RAHMEN.md
 defaults:
   - scope:
       path: ""
