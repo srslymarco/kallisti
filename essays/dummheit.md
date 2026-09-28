@@ -18,9 +18,9 @@ Nur die letzte dieser Reaktionen benötigt echtes Nachdenken. Die anderen vier R
 
 Denn das ist aufwändig und riskant: Wer ein Problem wirklich anerkennt, muss damit rechnen, vorher falsch gelegen zu haben. Das würde bedeuten, etwas an sich ändern zu müssen – also etwas anderes zu tun oder aber das eigene Weltbild zu korrigieren. Und das kann bedeuten, sein ganzes bisheriges Leben und die eigene gesamte bisherige Identität über den Haufen zu werfen. Und Menschen können unglaublich kreativ sein und unglaublichen Aufwand betreiben, um genau das mit aller Kraft zu verhindern.
 
-Dummheit ist dabei nicht der Mangel an der Fähigkeit, zu denken. Dummheit ist die Fähigkeit, es zu vermeiden wenn es unangenehm werden könnte.
+Dummheit ist dabei nicht der Mangel an der Fähigkeit, zu denken. Dummheit ist die Fähigkeit, es zu vermeiden, wenn es unangenehm werden könnte.
 
-Diese Art von Dummheit lässt an bestimmten Dingen erkennen: Dumme Menschen reflektieren ihr eigenes Verhalten und ihre eigenen Aussagen nicht, sondern nutzen ihre Aussagen und ihr Verhalten nur, um die eigene kognitive Dissonanz abzubauen.
+Diese Art von Dummheit lässt sich an bestimmten Dingen erkennen: Dumme Menschen reflektieren ihr eigenes Verhalten und ihre eigenen Aussagen nicht, sondern nutzen ihre Aussagen und ihr Verhalten nur, um die eigene kognitive Dissonanz abzubauen.
 
 Das kannst du gut beobachten, wenn manche Leute bei bestimmten Aussagen gar nicht auf den Inhalt der Aussage eingehen, sondern plötzlich nur auf bestimmte Reizwörter reagieren.
 

@@ -1,4 +1,6 @@
 baseurl: /kallisti
+exclude:
+  - CLAUDE.md
 defaults:
   - scope:
       path: ""

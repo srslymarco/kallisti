@@ -7,34 +7,26 @@ title: Lizenz
 
 Copyright © 2026 srslymarco
 
-Dieses Werk ist lizenziert unter der Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz.
+Dieses Werk ist lizenziert unter der Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International Lizenz (CC BY-SA 4.0).
 
 Um eine Kopie dieser Lizenz einzusehen, besuchen Sie
-[https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) oder schreiben Sie an:
-Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+[https://creativecommons.org/licenses/by-sa/4.0/deed.de](https://creativecommons.org/licenses/by-sa/4.0/deed.de).
 
 ## Sie dürfen:
 
-Teilen – das Material in jedem Medium oder Format kopieren und weiterverbreiten.
+**Teilen** – das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
 
-Bearbeiten – das Material für jeden Zweck bearbeiten, verändern und darauf aufbauen,
-auch kommerziell.
+**Bearbeiten** – das Material remixen, verändern und darauf aufbauen, und zwar für beliebige Zwecke, sogar kommerziell.
 
-## Unter den folgenden Bedingungen:
+Der Lizenzgeber kann diese Freiheiten nicht widerrufen, solange Sie sich an die Lizenzbedingungen halten.
 
-Namensnennung – Sie müssen den Urheber angemessen nennen, einen Link zur Lizenz bereitstellen und angeben, ob Änderungen vorgenommen wurden. Dies kann auf jede angemessene Weise geschehen, jedoch nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze Sie oder Ihre Nutzung.
+## Unter folgenden Bedingungen:
 
+**Namensnennung** – Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
 
-Sie dürfen das Material auf jede angemessene Weise verwenden, jedoch nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze Sie oder Ihre Nutzung.
+**Weitergabe unter gleichen Bedingungen** – Wenn Sie das Material remixen, verändern oder anderweitig direkt darauf aufbauen, dürfen Sie Ihre Beiträge nur unter derselben Lizenz wie das Original verbreiten.
 
-
-Sie dürfen das Material nicht bearbeiten, es sei denn, der Lizenzgeber unterstützt Sie oder Ihre Nutzung. Weitergabe unter gleichen Bedingungen – Wenn Sie das Material bearbeiten, verändern oder darauf aufbauen,
-müssen Sie Ihre Beiträge unter derselben Lizenz wie das
-Original verbreiten.
-
-Keine zusätzlichen Einschränkungen – Sie dürfen keine rechtlichen Bestimmungen oder
-technische Maßnahmen anwenden, die andere rechtlich daran hindern, etwas zu tun,
-was die Lizenz erlaubt.
+**Keine weiteren Einschränkungen** – Sie dürfen keine zusätzlichen Klauseln oder technischen Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
 
 Den vollständigen Lizenztext finden Sie hier:
-[https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+[https://creativecommons.org/licenses/by-sa/4.0/legalcode.de](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de)
