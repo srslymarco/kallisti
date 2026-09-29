@@ -6,13 +6,12 @@ title: Impressum
 
 Angaben gemäß § 5 DDG
 
-Marco Körner\
-Tripods Media
+Marco Körner
 
 Leutragraben 1\
 07743 Jena
 
-E-Mail: info@tripods.media
+E-Mail: srslymarco@pm.me
 
 ## Haftung für Inhalte
 
